@@ -1,0 +1,45 @@
+body{
+background: #BFACE2;
+font-family :sans-serif;
+color: black;
+}
+h2{
+	color:#645CBB;}
+
+th{
+	color:grey;
+	background: seagreen;
+	font-size: 50 pt;}
+
+h1{
+	color:#BFACE2;
+	font-size: 50 pt;}
+h3{
+	color:#BFACE2 ;
+}
+
+.login{
+	padding :1cm;
+	width :17cm;
+	background :#fff;
+	border-radius :3 px;
+}
+label{
+	font-size :14pt;
+	color :black;
+}
+.textarea{
+	padding : 8px;
+	width : 90%;
+	background : #efefef;
+	border : 0;
+	font-size : 10pt;
+	margin : 6px 0px;
+}
+.tombol {
+	background : #645CBB;
+	color : #000;
+	border :0;
+	padding :5px 8px;
+	margin :20px 0px;
+}
